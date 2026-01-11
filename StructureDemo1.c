@@ -1,0 +1,17 @@
+#include<stdio.h>
+
+struct Demo
+{
+    int i;
+    int j;
+    float f;
+};
+int main()
+{
+    struct Demo obj;
+    
+    printf("size of Demo is : %d\n",sizeof(struct Demo));
+    printf("size of object is:%d\n",sizeof(obj));
+
+    return 0;
+}

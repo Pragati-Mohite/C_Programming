@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+    Printf("Jay Ganesh....../n");
+    return 0;
+}
